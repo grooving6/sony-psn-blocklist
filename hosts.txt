@@ -1,0 +1,201 @@
+# Sony / PlayStation hosts blocklist
+# Format: 0.0.0.0<TAB>hostname
+# checked 2026-10-01
+
+# PlayStation / PSN / download / root hosts
+0.0.0.0	a0.ww.np.dl.playstation.net
+0.0.0.0	a1.ww.np.dl.playstation.net
+0.0.0.0	a2.ww.np.dl.playstation.net
+0.0.0.0	b0.ww.np.dl.playstation.net
+0.0.0.0	ena.net.playstation.net
+0.0.0.0	get.net.playstation.net
+0.0.0.0	gs-sec.ww.np.dl.playstation.net
+0.0.0.0	gs.ww.np.dl.playstation.net
+0.0.0.0	gs2.ww.prod.dl.playstation.net
+0.0.0.0	gst.prod.dl.playstation.net
+0.0.0.0	manuals.playstation.net
+0.0.0.0	oss.dl.playstation.net
+0.0.0.0	playstation.com
+0.0.0.0	playstation.net
+0.0.0.0	playstation.org
+0.0.0.0	post.net.playstation.net
+0.0.0.0	sgst.prod.dl.playstation.net
+0.0.0.0	status.playstation.com
+0.0.0.0	update.net.playstation.net
+0.0.0.0	www.playstation.com
+
+# PSN sign-in / account / telemetry / backend hosts
+0.0.0.0	auth.api.np.ac.playstation.net
+0.0.0.0	auth.api.sonyentertainmentnetwork.com
+0.0.0.0	crep.us.playstation.com
+0.0.0.0	crepo.ww.dl.playstation.net
+0.0.0.0	event.api.np.km.playstation.net
+0.0.0.0	playstation.sony.akadns.net
+0.0.0.0	ps4updptl.eu.np.community.playstation.net
+0.0.0.0	ps4updptl.uk.np.community.playstation.net
+0.0.0.0	sf.api.np.km.playstation.net
+0.0.0.0	static-resource.np.community.playstation.net
+0.0.0.0	t-prof.np.community.playstation.net
+0.0.0.0	themis.dl.playstation.net
+0.0.0.0	tmdb.np.dl.playstation.net
+0.0.0.0	urlconfig.api.playstation.com
+0.0.0.0	web.np.playstation.net
+
+# Generic / CDN update hosts
+0.0.0.0	a01.cdn.update.playstation.org.edgesuite.net
+0.0.0.0	al02.cdn.update.playstation.net
+0.0.0.0	fswitch.dl.playstation.net
+0.0.0.0	post.p01.ps4.update.playstation.net
+0.0.0.0	ps4.update.playstation.net
+0.0.0.0	ps5.update.playstation.net
+0.0.0.0	update.playstation.net
+
+# ps3 update hosts
+0.0.0.0	dau01.ps3.update.playstation.net
+0.0.0.0	dbr01.ps3.update.playstation.net
+0.0.0.0	dcn01.ps3.update.playstation.net
+0.0.0.0	deu01.ps3.update.playstation.net
+0.0.0.0	dhk01.ps3.update.playstation.net
+0.0.0.0	djp01.ps3.update.playstation.net
+0.0.0.0	dkr01.ps3.update.playstation.net
+0.0.0.0	dmx01.ps3.update.playstation.net
+0.0.0.0	dru01.ps3.update.playstation.net
+0.0.0.0	dsa01.ps3.update.playstation.net
+0.0.0.0	dtw01.ps3.update.playstation.net
+0.0.0.0	duk01.ps3.update.playstation.net
+0.0.0.0	dus01.ps3.update.playstation.net
+0.0.0.0	fau01.ps3.update.playstation.net
+0.0.0.0	fbr01.ps3.update.playstation.net
+0.0.0.0	fcn01.ps3.update.playstation.net
+0.0.0.0	feu01.ps3.update.playstation.net
+0.0.0.0	fhk01.ps3.update.playstation.net
+0.0.0.0	fjp01.ps3.update.playstation.net
+0.0.0.0	fkr01.ps3.update.playstation.net
+0.0.0.0	fmx01.ps3.update.playstation.net
+0.0.0.0	fru01.ps3.update.playstation.net
+0.0.0.0	fsa01.ps3.update.playstation.net
+0.0.0.0	ftw01.ps3.update.playstation.net
+0.0.0.0	fuk01.ps3.update.playstation.net
+0.0.0.0	fus01.ps3.update.playstation.net
+
+# psp2 update hosts
+0.0.0.0	dau01.psp2.update.playstation.net
+0.0.0.0	dbr01.psp2.update.playstation.net
+0.0.0.0	dcn01.psp2.update.playstation.net
+0.0.0.0	deu01.psp2.update.playstation.net
+0.0.0.0	dhk01.psp2.update.playstation.net
+0.0.0.0	djp01.psp2.update.playstation.net
+0.0.0.0	dkr01.psp2.update.playstation.net
+0.0.0.0	dmx01.psp2.update.playstation.net
+0.0.0.0	dru01.psp2.update.playstation.net
+0.0.0.0	dsa01.psp2.update.playstation.net
+0.0.0.0	dtw01.psp2.update.playstation.net
+0.0.0.0	duk01.psp2.update.playstation.net
+0.0.0.0	dus01.psp2.update.playstation.net
+0.0.0.0	fau01.psp2.update.playstation.net
+0.0.0.0	fbr01.psp2.update.playstation.net
+0.0.0.0	fcn01.psp2.update.playstation.net
+0.0.0.0	feu01.psp2.update.playstation.net
+0.0.0.0	fhk01.psp2.update.playstation.net
+0.0.0.0	fjp01.psp2.update.playstation.net
+0.0.0.0	fkr01.psp2.update.playstation.net
+0.0.0.0	fmx01.psp2.update.playstation.net
+0.0.0.0	fru01.psp2.update.playstation.net
+0.0.0.0	fsa01.psp2.update.playstation.net
+0.0.0.0	ftw01.psp2.update.playstation.net
+0.0.0.0	fuk01.psp2.update.playstation.net
+0.0.0.0	fus01.psp2.update.playstation.net
+
+# ps4 update hosts
+0.0.0.0	dau01.ps4.update.playstation.net
+0.0.0.0	dbr01.ps4.update.playstation.net
+0.0.0.0	dcn01.ps4.update.playstation.net
+0.0.0.0	deu01.ps4.update.playstation.net
+0.0.0.0	dhk01.ps4.update.playstation.net
+0.0.0.0	djp01.ps4.update.playstation.net
+0.0.0.0	dkr01.ps4.update.playstation.net
+0.0.0.0	dmx01.ps4.update.playstation.net
+0.0.0.0	dru01.ps4.update.playstation.net
+0.0.0.0	dsa01.ps4.update.playstation.net
+0.0.0.0	dtw01.ps4.update.playstation.net
+0.0.0.0	duk01.ps4.update.playstation.net
+0.0.0.0	dus01.ps4.update.playstation.net
+0.0.0.0	fau01.ps4.update.playstation.net
+0.0.0.0	fbr01.ps4.update.playstation.net
+0.0.0.0	fcn01.ps4.update.playstation.net
+0.0.0.0	feu01.ps4.update.playstation.net
+0.0.0.0	fhk01.ps4.update.playstation.net
+0.0.0.0	fjp01.ps4.update.playstation.net
+0.0.0.0	fkr01.ps4.update.playstation.net
+0.0.0.0	fmx01.ps4.update.playstation.net
+0.0.0.0	fru01.ps4.update.playstation.net
+0.0.0.0	fsa01.ps4.update.playstation.net
+0.0.0.0	ftw01.ps4.update.playstation.net
+0.0.0.0	fuk01.ps4.update.playstation.net
+0.0.0.0	fus01.ps4.update.playstation.net
+0.0.0.0	hau01.ps4.update.playstation.net
+0.0.0.0	hbr01.ps4.update.playstation.net
+0.0.0.0	hcn01.ps4.update.playstation.net
+0.0.0.0	heu01.ps4.update.playstation.net
+0.0.0.0	hhk01.ps4.update.playstation.net
+0.0.0.0	hjp01.ps4.update.playstation.net
+0.0.0.0	hkr01.ps4.update.playstation.net
+0.0.0.0	hmx01.ps4.update.playstation.net
+0.0.0.0	hru01.ps4.update.playstation.net
+0.0.0.0	hsa01.ps4.update.playstation.net
+0.0.0.0	htw01.ps4.update.playstation.net
+0.0.0.0	huk01.ps4.update.playstation.net
+0.0.0.0	hus01.ps4.update.playstation.net
+
+# ps5 update hosts
+0.0.0.0	dau01.ps5.update.playstation.net
+0.0.0.0	dbr01.ps5.update.playstation.net
+0.0.0.0	dcn01.ps5.update.playstation.net
+0.0.0.0	deu01.ps5.update.playstation.net
+0.0.0.0	dhk01.ps5.update.playstation.net
+0.0.0.0	djp01.ps5.update.playstation.net
+0.0.0.0	dkr01.ps5.update.playstation.net
+0.0.0.0	dmx01.ps5.update.playstation.net
+0.0.0.0	dru01.ps5.update.playstation.net
+0.0.0.0	dsa01.ps5.update.playstation.net
+0.0.0.0	dtw01.ps5.update.playstation.net
+0.0.0.0	duk01.ps5.update.playstation.net
+0.0.0.0	dus01.ps5.update.playstation.net
+0.0.0.0	fau01.ps5.update.playstation.net
+0.0.0.0	fbr01.ps5.update.playstation.net
+0.0.0.0	fcn01.ps5.update.playstation.net
+0.0.0.0	feu01.ps5.update.playstation.net
+0.0.0.0	fhk01.ps5.update.playstation.net
+0.0.0.0	fjp01.ps5.update.playstation.net
+0.0.0.0	fkr01.ps5.update.playstation.net
+0.0.0.0	fmx01.ps5.update.playstation.net
+0.0.0.0	fru01.ps5.update.playstation.net
+0.0.0.0	fsa01.ps5.update.playstation.net
+0.0.0.0	ftw01.ps5.update.playstation.net
+0.0.0.0	fuk01.ps5.update.playstation.net
+0.0.0.0	fus01.ps5.update.playstation.net
+0.0.0.0	hau01.ps5.update.playstation.net
+0.0.0.0	hbr01.ps5.update.playstation.net
+0.0.0.0	hcn01.ps5.update.playstation.net
+0.0.0.0	heu01.ps5.update.playstation.net
+0.0.0.0	hhk01.ps5.update.playstation.net
+0.0.0.0	hjp01.ps5.update.playstation.net
+0.0.0.0	hkr01.ps5.update.playstation.net
+0.0.0.0	hmx01.ps5.update.playstation.net
+0.0.0.0	hru01.ps5.update.playstation.net
+0.0.0.0	hsa01.ps5.update.playstation.net
+0.0.0.0	htw01.ps5.update.playstation.net
+0.0.0.0	huk01.ps5.update.playstation.net
+0.0.0.0	hus01.ps5.update.playstation.net
+
+# Sony domains
+0.0.0.0	electronics.sony.com
+0.0.0.0	scea.com
+0.0.0.0	sie-rd.com
+0.0.0.0	sony.co.jp
+0.0.0.0	sony.com
+0.0.0.0	sony.net
+0.0.0.0	sonyentertainmentnetwork.com
+0.0.0.0	www.sony.co.jp
+0.0.0.0	www.sony.com
+0.0.0.0	www.sony.net
