@@ -19,6 +19,10 @@
 0.0.0.0	status.playstation.com
 0.0.0.0	update.net.playstation.net
 0.0.0.0	www.playstation.com
+0.0.0.0 social.playstation.com
+0.0.0.0 gmedia.playstation.com
+0.0.0.0 image.api.playstation.com
+0.0.0.0 clt-feature.playstation.com
 
 ! PSN sign-in / account / telemetry / backend hosts
 0.0.0.0	auth.api.np.ac.playstation.net
