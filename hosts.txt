@@ -1,8 +1,4 @@
-# Sony / PlayStation hosts blocklist
-# Format: 0.0.0.0<TAB>hostname
-# checked 2026-10-01
-
-# PlayStation / PSN / download / root hosts
+! PlayStation / PSN / download / root hosts
 0.0.0.0	a0.ww.np.dl.playstation.net
 0.0.0.0	a1.ww.np.dl.playstation.net
 0.0.0.0	a2.ww.np.dl.playstation.net
@@ -24,7 +20,7 @@
 0.0.0.0	update.net.playstation.net
 0.0.0.0	www.playstation.com
 
-# PSN sign-in / account / telemetry / backend hosts
+! PSN sign-in / account / telemetry / backend hosts
 0.0.0.0	auth.api.np.ac.playstation.net
 0.0.0.0	auth.api.sonyentertainmentnetwork.com
 0.0.0.0	crep.us.playstation.com
@@ -41,7 +37,7 @@
 0.0.0.0	urlconfig.api.playstation.com
 0.0.0.0	web.np.playstation.net
 
-# Generic / CDN update hosts
+! Generic / CDN update hosts
 0.0.0.0	a01.cdn.update.playstation.org.edgesuite.net
 0.0.0.0	al02.cdn.update.playstation.net
 0.0.0.0	fswitch.dl.playstation.net
@@ -50,7 +46,7 @@
 0.0.0.0	ps5.update.playstation.net
 0.0.0.0	update.playstation.net
 
-# ps3 update hosts
+! ps3 update hosts
 0.0.0.0	dau01.ps3.update.playstation.net
 0.0.0.0	dbr01.ps3.update.playstation.net
 0.0.0.0	dcn01.ps3.update.playstation.net
@@ -78,7 +74,7 @@
 0.0.0.0	fuk01.ps3.update.playstation.net
 0.0.0.0	fus01.ps3.update.playstation.net
 
-# psp2 update hosts
+! psp2 update hosts
 0.0.0.0	dau01.psp2.update.playstation.net
 0.0.0.0	dbr01.psp2.update.playstation.net
 0.0.0.0	dcn01.psp2.update.playstation.net
@@ -106,7 +102,7 @@
 0.0.0.0	fuk01.psp2.update.playstation.net
 0.0.0.0	fus01.psp2.update.playstation.net
 
-# ps4 update hosts
+! ps4 update hosts
 0.0.0.0	dau01.ps4.update.playstation.net
 0.0.0.0	dbr01.ps4.update.playstation.net
 0.0.0.0	dcn01.ps4.update.playstation.net
@@ -147,7 +143,7 @@
 0.0.0.0	huk01.ps4.update.playstation.net
 0.0.0.0	hus01.ps4.update.playstation.net
 
-# ps5 update hosts
+! ps5 update hosts
 0.0.0.0	dau01.ps5.update.playstation.net
 0.0.0.0	dbr01.ps5.update.playstation.net
 0.0.0.0	dcn01.ps5.update.playstation.net
@@ -188,7 +184,7 @@
 0.0.0.0	huk01.ps5.update.playstation.net
 0.0.0.0	hus01.ps5.update.playstation.net
 
-# Sony domains
+! Sony domains
 0.0.0.0	electronics.sony.com
 0.0.0.0	scea.com
 0.0.0.0	sie-rd.com
